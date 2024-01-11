@@ -1,6 +1,4 @@
-### Hi 👋
+### print("Hej")
 
-- 🌱 I’m currently learning python
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Sverker
-
+-www.malmoraddningsklan.se
+-https://discord.gg/x2VJsteFsG
